@@ -1,2 +1,7 @@
 # wait-and-eat
-Coursework for angularcourse.com: "Wait and Eat" app for restaurants
+
+This repository contains coursework for an online course on AngularJS: www.angularcourse.com
+
+"Wait and Eat" is a simple app for restaurants to keep track of waiting lists during busy times.
+
+
