@@ -1,0 +1,11 @@
+{
+  "name": "wait-and-eat",
+  "description": "A smple project in AngularJS",
+  "devDependencies": {
+        "phantomjs" : "*",
+        "karma" : "*",
+        "karma-junit-reporter" : "*",    
+        "karma-jasmine" : "*",
+        "karma-ng-scenario" : "*"
+    }
+}
